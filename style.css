@@ -10,5 +10,7 @@ body{
 }
 .title{
     width: 715px;
-    height
+    height: 245px;
+    background-color: darkviolet;
+    margin:auto;
 }
